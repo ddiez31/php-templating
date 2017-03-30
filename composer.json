@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "psr-4": { "Acme\\": "src/" }
+    },
+    "require": {
+        "fzaninotto/faker": "^1.6",
+        "twig/twig": "^2.3"
+    }
+}

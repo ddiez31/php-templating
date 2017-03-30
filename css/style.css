@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.ui.card.company {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.ui.grid {
+    padding-left: 10%;
+}
+
+#userImg {
+    border-radius: 100%;
+}
+
+
+/*.grid {
+    height: 100%;
+    width: 100%;
+}
+
+
+.six {
+    border: 1px solid green;
+    height: 100%;
+    width: 100%;
+}*/
